@@ -1,0 +1,28 @@
+{
+  "name": "constructor-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlitos-nova/Constructor-Word.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlitos-nova/Constructor-Word/issues"
+  },
+  "homepage": "https://github.com/Carlitos-nova/Constructor-Word#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.0"
+  }
+}
